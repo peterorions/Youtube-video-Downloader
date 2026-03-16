@@ -7,7 +7,6 @@ A lightweight, desktop GUI application for downloading YouTube videos, playlists
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey
 ---
 
 ## ✨ Features
